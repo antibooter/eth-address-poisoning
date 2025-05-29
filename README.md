@@ -1,5 +1,5 @@
 
-# 🧪 PoisonF – Address Poisoning Simulation Tool
+# 🧪 PoisonF – Ethereum Address Poisoning Tool
 
 **PoisonF** is a powerful tool designed to automate address poisoning attacks for blockchain security research and simulation purposes. It supports multiple networks and helps red-teamers test user interface vulnerabilities in transaction history views on major wallets and explorers.
 
